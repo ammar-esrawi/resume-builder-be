@@ -1,0 +1,1 @@
+mongoimport --db resume-builder --collection profiles --file ./db-exports/db.json --jsonArray
