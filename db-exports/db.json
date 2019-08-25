@@ -1,2 +1,56 @@
-[{"_id":{"$oid":"5d5c4841b314583a809ccfcc"},"login":"test","fName":"Test","lName":"Test","mobile":"+900112233","email":"test@test.com","experince":"10 Years","projects":"17","skills":"js html css","about":"Test About","msg":""},
-{"_id":{"$oid":"5d5c4e021d640f3a804e5d45"},"login":"ammar","fName":"Ammar","lName":"Esrawi","mobile":"+900112233","email":"ammar@test.com","experince":"1 year","projects":"10","skills":"java js","about":"Very happy to be team partner in your lovely company IT team","msg":"I Love Coffe"}]
+[
+    {
+        "_id": {
+            "$oid": "5d5c4e021d640f3a804e5d45"
+        },
+        "login": "safwan",
+        "fName": "Safwan",
+        "lName": "Kher",
+        "mobile": "+900112233",
+        "title": "WEB DESIGNER, DIRECTOR",
+        "email": "safwan@test.com",
+        "projects": "10",
+        "about": "Very happy to be team partner in your lovely company IT team",
+        "msg": "I Love Coffe",
+        "profile": "Progressively evolve cross-platform ideas before impactful infomediaries. Energistically visualize tactical initiatives before cross-media catalysts for change.",
+        "technical": [
+            "xhtml",
+            "Jquery",
+            "js",
+            "java",
+            "Linux",
+            "Windows"
+        ],
+        "skills": [
+            {
+                "name": "Web Design",
+                "description": "Assertively exploit wireless initiatives rather than synergistic core competencies."
+            },
+            {
+                "name": "Interface Design",
+                "description": "Credibly streamline mission-critical value with multifunctional functionalities."
+            }
+        ],
+        "experience": [
+            {
+                "company": "Facebook",
+                "from": "2005",
+                "to": "2008",
+                "description": "Intrinsicly enable optimal core competencies through corporate relationships. Phosfluorescently implement worldwide vortals and client-focused imperatives. Conveniently initiate virtual paradigms and top-line convergence.",
+                "jobTitle": "Senior Interface Designer"
+            },
+            {
+                "company": "Apple",
+                "from": "2008",
+                "to": "2010",
+                "description": "Progressively reconceptualize multifunctional \"outside the box\" thinking through inexpensive methods of empowerment. Compellingly morph extensive niche markets with mission-critical ideas. Phosfluorescently deliver bricks-and-clicks strategic theme areas rather than scalable benefits.",
+                "jobTitle": "Senior Interface Designer"
+            }
+
+        ],
+        "education": [
+            "Indiana University - Bloomington, Indiana",
+            "Dual Major, Economics and English — 4.0 GPA"
+        ]
+    }
+]
